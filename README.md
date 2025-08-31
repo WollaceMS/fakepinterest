@@ -1,25 +1,25 @@
-FakePinterest
+## FakePinterest
 
 FakePinterest é uma aplicação web desenvolvida com Flask (Python) que simula algumas funcionalidades básicas do Pinterest, como cadastro/login de usuários e upload de imagens. O projeto tem como objetivo praticar conceitos de desenvolvimento web, autenticação e integração com banco de dados.
 
 🚀 Funcionalidades
 
-Cadastro e login de usuários com autenticação segura
+- Cadastro e login de usuários com autenticação segura
 
-Upload e exibição de imagens
+- Upload e exibição de imagens
 
-Feed interativo e responsivo
+- Feed interativo e responsivo
 
-Estrutura modular para fácil manutenção
+- Estrutura modular para fácil manutenção
 
 🛠️ Tecnologias Utilizadas
 
-Python 3
+- Python 3
 
-Flask
+- Flask
 
-Flask-Login
+- Flask-Login
 
-SQLAlchemy
+- SQLAlchemy
 
-HTML, CSS, Bootstrap
+- HTML, CSS, Bootstrap
